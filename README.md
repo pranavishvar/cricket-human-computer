@@ -6,11 +6,11 @@ python version used 3.8.1
 To run the program issue the following command
 # python cricket-h2c.py
 
-(venv) C:\Users\...>python cricket-h2c.py
-odd or even game
-(b)Bat or (s)Bowl: b
-computer will bowl
- your turn: 3     <== Enter a number between 1 to 6
+(venv) C:\Users\...>python cricket-h2c.py  
+odd or even game  
+(b)Bat or (s)Bowl: b  
+computer will bowl  
+ your turn: 3     <== Enter a number between 1 to 6  
 player:     3
 computer:   5
  your turn: 4
