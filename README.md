@@ -89,6 +89,6 @@ player:    2
 computer:  2             <== line number 88 and 89 value matches --> COMPUTER OUT!!
 "computer out "          <== 
 " computer score 26"     <==
-"Player won the match"   <== WINNER PLAYER!!
+"Player won the match"   <== WINNER PLAYER!!!
 
 
